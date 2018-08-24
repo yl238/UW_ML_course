@@ -1,2 +1,2 @@
-# UW_ML_course
-University of Washington Machine Learning Course Notes
+# University of Washington Machine Learning Course
+This repository contains the notes and exercises of the four courses in the machine learning specialization.
